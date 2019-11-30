@@ -2,6 +2,11 @@
 
 批量解析种子文件，获取文件名、磁链与文件大小，导出为 csv 文件。
 
+## 福利
+
+1. 高清下载吧 2014-09-18 蓝光原盘磁链 4726 条
+2. MP4吧 2014-2016 磁链 4995 条
+
 ## 安装
 
 ```shell
@@ -36,11 +41,6 @@ python extract.py -d ./torrents -o C:/result.csv
 ## 依赖
 
 - [bencodepy](https://github.com/eweast/BencodePy)
-
-## 福利
-
-1. 高清下载吧 2019-09-18 蓝光原盘磁链 4726 条
-2. MP4吧 2014-2016 磁链 4995 条
 
 ## TODO LIST
 
